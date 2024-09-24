@@ -1,0 +1,16 @@
+@font-face {
+	font-family: "Holysweet";
+	src: url(fonts/holysweet-font/Holysweet-rgn4K.otf);
+	font-weight: normal;
+	font-size: normal;
+}
+
+@
+
+html {
+	background-color: #FFB6C1;
+}
+
+p {
+	color: #FFFFC1;
+}
